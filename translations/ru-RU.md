@@ -1,7 +1,6 @@
 # Памятка по современному JavaScript
 ![Памятка по современному JavaScript](https://i.imgur.com/aexPxMb.png)
 <small>За картинку спасибо [Ahmad Awais ⚡️](https://github.com/ahmadawais)</small>
-
 ## Введение
 
 ### Мотивация
